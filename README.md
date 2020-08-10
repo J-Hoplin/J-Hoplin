@@ -23,3 +23,5 @@
 - E-mail : jhoplin7259@gmail.com
 
 - Facebook : https://www.facebook.com/hoplin.Junho
+
+[![Hoplin's github stats](https://github-readme-stats.vercel.app/api?username=J-hoplin1)](https://github.com/anuraghazra/github-readme-stats)
