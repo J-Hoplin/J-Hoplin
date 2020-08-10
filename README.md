@@ -20,9 +20,9 @@
 
 #### 새로운 사람과의 이야기는 언제든지 환영합니다!
 <div align=center>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhoplin7259@gmail.com)](mailto:jhoplin7259@gmail.com) 
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhoplin7259@gmail.com)](mailto:jhoplin7259@gmail.com) 
 </div>
 <div align=center>
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/hoplin.Junho)](https://www.facebook.com/hoplin.Junho)
+  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/hoplin.Junho)(https://www.facebook.com/hoplin.Junho)
 </div>
 [![Hoplin's github stats](https://github-readme-stats.vercel.app/api?username=J-hoplin1)](https://github.com/anuraghazra/github-readme-stats)
