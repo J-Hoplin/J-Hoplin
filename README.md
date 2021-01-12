@@ -10,11 +10,11 @@
 
 #### 관심사
 
-- Modern C++ & C++ STL
+- PS with python3
 
-- Back-End
+- Operating System
 
-- Dev-Ops
+- Dart and Flutter
 
 #### 새로운 사람과의 이야기는 언제든지 환영합니다!
 
