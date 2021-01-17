@@ -22,8 +22,10 @@
 
 - [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/hoplin.Junho)](https://www.facebook.com/hoplin.Junho)
 
+#### My github stats
 
-[![Hoplin's github stats](https://github-readme-stats.vercel.app/api?username=J-hoplin1)](https://github.com/anuraghazra/github-readme-stats)
+  [![Hoplin's github stats](https://github-readme-stats.vercel.app/api?username=J-hoplin1)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoplin)](https://solved.ac/hoplin)
+#### My solved.ac
+  
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoplin)](https://solved.ac/hoplin)
