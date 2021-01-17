@@ -18,9 +18,9 @@
 
 #### 새로운 사람과의 이야기는 언제든지 환영합니다!
 
-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhoplin7259@gmail.com)](mailto:jhoplin7259@gmail.com) 
-
-- [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/hoplin.Junho)](https://www.facebook.com/hoplin.Junho)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhoplin7259@gmail.com)](mailto:jhoplin7259@gmail.com) 
+ 
+  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/hoplin.Junho)](https://www.facebook.com/hoplin.Junho)
 
 #### My github stats
 
