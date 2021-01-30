@@ -24,7 +24,7 @@
 
 #### My github stats
 
-  [![Hoplin's github stats](https://github-readme-stats.vercel.app/api?username=J-hoplin1)](https://github.com/anuraghazra/github-readme-stats)
+  [![Hoplin's github stats](https://github-readme-stats.vercel.app/api?username=J-hoplin1&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 #### My solved.ac [(Baekjoon Online Judge)](https://www.acmicpc.net/)
   
