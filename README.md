@@ -33,6 +33,5 @@
 
   [![Hoplin's github stats](https://github-readme-stats.vercel.app/api?username=J-hoplin1&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-#### My solved.ac [(Baekjoon Online Judge)](https://www.acmicpc.net/)
-  
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoplin)](https://solved.ac/hoplin)
+[![trophy](https://github-profile-trophy.vercel.app/?username=J-hoplin1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
