@@ -6,8 +6,6 @@
 
 - 약 1년 6개월정도 홍익대학교 학부생 연구원으로 활동했어요! [(High Performance Data Processing & Analysis Lab)](https://hpclab.hongik.ac.kr/index.php/member/alumni/)
 
-- 현재는 군복무 중이에요!(~2021.11.15)
-
 #### 관심사
 
 - PS with python3
