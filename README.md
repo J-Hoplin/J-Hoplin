@@ -6,13 +6,13 @@
 
 - 약 1년 6개월정도 홍익대학교 학부생 연구원으로 활동했어요! [(High Performance Data Processing & Analysis Lab)](https://hpclab.hongik.ac.kr/index.php/member/alumni/)
 
+- 앞으로는 데이터 사이언스 아닌 백엔드 분야를 더 심도있게 다룰 예정입니다
+
 #### 관심사
 
-- PS with python3
-
-- TypeScript
-
-- Be Full-Stack Developer
+- Java Spring Boot
+- Python Django
+- React.js
 
 #### 새로운 사람과의 이야기는 언제든지 환영합니다!
 
