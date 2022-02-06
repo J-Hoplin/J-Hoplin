@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-#### 저는 최근까지...
+#### Recent Studying
 
-- 프리랜서 및 스타트업에서 데이터사이언스분야의 개발자로 일을 하였습니다!
+- Java & Design Pattern
+- GO
+- Python Django
+- Problem Solving
 
-- 약 1년 6개월정도 홍익대학교 학부생 연구원으로 활동했어요! [(High Performance Data Processing & Analysis Lab)](https://hpclab.hongik.ac.kr/index.php/member/alumni/)
-
-- 앞으로는 데이터 사이언스 아닌 백엔드 분야를 더 심도있게 다룰 예정입니다
 
 #### 관심사
 
