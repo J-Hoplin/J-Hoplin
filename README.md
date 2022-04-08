@@ -11,8 +11,14 @@
 #### 관심사
 
 - Java Spring Boot
-- Python Django
+- Python Django & Django REST Framework
 - React.js
+- Android
+
+#### Currently Using Skills
+
+- Django / Django REST Framework
+- Android
 
 #### 새로운 사람과의 이야기는 언제든지 환영합니다!
 
