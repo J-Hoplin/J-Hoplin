@@ -4,14 +4,15 @@
 
 - Java & Design Pattern
 - GO
-- Problem Solving
+- Algorithms
 
 
-#### 관심사
+#### Interested in
 
 - Java Spring Boot
 - Java / RX Java / Modern JavaScript
 - Android
+- Problem Solving
 
 #### Currently Using Skills
 
