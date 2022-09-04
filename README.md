@@ -3,8 +3,10 @@
 #### Recent Studying
 
 - Node.js & Express
-- Kuberenetes / Docker Time
+- Kuberenetes / Docker
 - Kotlin
+- TypeScript
+- GO
 
 #### Future Direction
 
