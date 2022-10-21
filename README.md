@@ -1,5 +1,6 @@
 ### Hi there 👋 [![wakatime](https://wakatime.com/badge/user/36ef0406-8e89-4224-b574-e4f4e55c816f.svg)](https://wakatime.com/@36ef0406-8e89-4224-b574-e4f4e55c816f)
 ***
+**Currently I don't support Windows Compatibility**
 #### Recent Studying
 
 - Node.js & Express
