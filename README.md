@@ -5,7 +5,7 @@
 
 - Node.js & Express
 - Kuberenetes / Docker
-- Kotlin
+- Swift (as hobby)
 - TypeScript
 - GO
 
