@@ -13,6 +13,7 @@
 - Nest.js
 - React.js
 - Kotlin
+- Spring Boot
 
 #### 새로운 사람과의 이야기는 언제든지 환영합니다!
 
