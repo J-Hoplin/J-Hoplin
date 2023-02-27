@@ -1,20 +1,16 @@
-### Hi there 👋 [![wakatime](https://wakatime.com/badge/user/36ef0406-8e89-4224-b574-e4f4e55c816f.svg)](https://wakatime.com/@36ef0406-8e89-4224-b574-e4f4e55c816f)
-***
-**Currently I don't support Windows Compatibility**
-#### Recent Studying
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hoplin%20&fontSize=90)
 
-- Node.js & Express & TypeScript
-- Kuberenetes / Docker
-- Java >= 11
 
-#### Future Direction
+## Main Language
+[![My Skills](https://skills.thijs.gg/icons?i=js,nodejs,ts,py,java)](https://skills.thijs.gg)
 
-- Express.js
-- Nest.js
-- React.js
-- Kotlin
-- Spring Boot
+## Main Skills
+[![My Skills](https://skills.thijs.gg/icons?i=express,nestjs,spring,redis,mysql,mongodb,nginx,kubernetes,docker,git,aws,gcp,jest)](https://skills.thijs.gg)
+## Experienced and using
+[![My Skills](https://skills.thijs.gg/icons?i=bash,c,cmake,html,css,jquery,bootstrap,regex,django,fastapi,flask,go,gradle,grafana,graphql,postgres,jenkins,kotlin,laravel,latex,matlab,php,qt,react,swift,tensorflow,webpack,babel)](https://skills.thijs.gg)
+## Recently using tools
+[![My Skills](https://skills.thijs.gg/icons?i=arduino,raspberrypi,discord,vim,neovim,postman,vscode,idea,figma)](https://skills.thijs.gg) ...etc
 
-#### 새로운 사람과의 이야기는 언제든지 환영합니다!
-
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jhoplin7259@gmail.com)](mailto:jhoplin7259@gmail.com)    [![Facebook Badge](	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/hoplin.Junho)](https://www.facebook.com/hoplin.Junho)   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/준호-andrew-y-윤-09713b171)  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hoplin_j/)
+#### Reach with me
+- [Blog](https://velog.io/@hoplin)
+- Email : jhoplin7259@gmail.com
