@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hoplin%20&fontSize=90)
 
 
-## Main Language
+## Main Languages
 [![My Skills](https://skills.thijs.gg/icons?i=js,nodejs,ts,py,java)](https://skills.thijs.gg)
 
 ## Main Skills
