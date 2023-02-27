@@ -11,6 +11,6 @@
 ## Recently using tools
 [![My Skills](https://skills.thijs.gg/icons?i=arduino,raspberrypi,discord,vim,neovim,postman,vscode,idea,figma)](https://skills.thijs.gg) ...etc
 
-#### Reach with me
+## Reach with me
 - [Blog](https://velog.io/@hoplin)
 - Email : jhoplin7259@gmail.com
