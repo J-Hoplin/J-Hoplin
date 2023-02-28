@@ -4,7 +4,7 @@
 </div>
 
 ## Main Languages
-[![My Skills](https://skills.thijs.gg/icons?i=js,nodejs,ts,py,java)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=nodejs,js,ts,py,java)](https://skills.thijs.gg)
 
 ## Main Skills
 [![My Skills](https://skills.thijs.gg/icons?i=express,nestjs,spring,redis,mysql,mongodb,nginx,kubernetes,docker,git,aws,gcp,jest)](https://skills.thijs.gg)
