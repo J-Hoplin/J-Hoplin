@@ -6,14 +6,10 @@
 ## My moto
 더 나은 내일을 위해 오늘의 중괄호를 엽니다
 ## Main Languages
-[![My Skills](https://skills.thijs.gg/icons?i=nodejs,js,ts,py,java)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=nodejs,js,ts,py,java,bash)](https://skills.thijs.gg)
 
-## Main Skills
-[![My Skills](https://skills.thijs.gg/icons?i=express,nestjs,spring,redis,mysql,mongodb,nginx,kubernetes,docker,git,aws,gcp,jest)](https://skills.thijs.gg)
-## Experienced and using
-[![My Skills](https://skills.thijs.gg/icons?i=bash,c,cmake,html,css,jquery,bootstrap,regex,django,fastapi,flask,go,gradle,grafana,graphql,postgres,jenkins,kotlin,laravel,latex,matlab,php,qt,react,swift,tensorflow,webpack,babel)](https://skills.thijs.gg)
-## Recently using tools
-[![My Skills](https://skills.thijs.gg/icons?i=arduino,raspberrypi,discord,vim,neovim,postman,vscode,idea,figma)](https://skills.thijs.gg) ...etc
+## Skills & Frameworks
+[![My Skills](https://skills.thijs.gg/icons?i=express,nestjs,spring,redis,mysql,mongodb,nginx,kubernetes,docker,git,aws,gcp,jest,grafana,graphql)](https://skills.thijs.gg)
 
 ## Reach with me
 - [Blog](https://velog.io/@hoplin)
