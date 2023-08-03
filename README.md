@@ -11,7 +11,7 @@
 ## Skills & Frameworks
 [![My Skills](https://skills.thijs.gg/icons?i=express,nestjs,spring,redis,mysql,mongodb,nginx,kubernetes,docker,git,jest,grafana,graphql,rabbitmq)](https://skills.thijs.gg)
 
-## Interests (Incubator Skills)
+## Interests (Incubating Skills)
 [![My Skills](https://skills.thijs.gg/icons?i=aws,gcp,kafka,go)](https://skills.thijs.gg)
 
 ## Reach with me
