@@ -9,10 +9,10 @@
 [![My Skills](https://skills.thijs.gg/icons?i=nodejs,ts,go,java,bash)](https://skills.thijs.gg)
 
 ## Skills & Frameworks
-[![My Skills](https://skills.thijs.gg/icons?i=express,nestjs,spring,redis,mysql,mongodb,nginx,kubernetes,docker,git,jest,grafana,graphql,rabbitmq)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=aws,express,nestjs,spring,redis,mysql,mongodb,nginx,kubernetes,docker,git,jest,grafana,graphql,rabbitmq)](https://skills.thijs.gg)
 
 ## Interests (Incubating Skills)
-[![My Skills](https://skills.thijs.gg/icons?i=aws,gcp,kafka)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=gcp,kafka)](https://skills.thijs.gg)
 
 ## Reach with me
 - [Blog](https://velog.io/@hoplin)
