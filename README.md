@@ -5,11 +5,11 @@
 
 ## My moto
 더 나은 내일을 위해 오늘의 중괄호를 엽니다
-## Main Languages
-[![My Skills](https://skills.thijs.gg/icons?i=nodejs,ts,go,java,bash)](https://skills.thijs.gg)
+## Recently Using
+[![My Skills](https://skills.thijs.gg/icons?i=nodejs,ts,go,aws,docker,react,tailwind,nestjs,prisma,jest,mongodb,mysql,bash)](https://skills.thijs.gg)
 
 ## Skills & Frameworks
-[![My Skills](https://skills.thijs.gg/icons?i=aws,express,nestjs,spring,redis,mysql,mongodb,nginx,kubernetes,docker,git,jest,grafana,graphql,rabbitmq)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=express,java,spring,redis,mysql,mongodb,nginx,kubernetes,docker,git,grafana,graphql,rabbitmq)](https://skills.thijs.gg)
 
 ## Interests (Incubating Skills)
 [![My Skills](https://skills.thijs.gg/icons?i=gcp,kafka)](https://skills.thijs.gg)
