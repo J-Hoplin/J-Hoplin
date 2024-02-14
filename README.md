@@ -16,4 +16,5 @@
 
 ## Reach with me
 - [Blog](https://velog.io/@hoplin)
+- [Linked In](https://www.linkedin.com/in/%EC%A4%80%ED%98%B8-%EC%9C%A4-09713b171/)
 - Email : jhoplin7259@gmail.com
