@@ -3,8 +3,9 @@
   <a href="https://hits.sh/github.com/J-hoplin1/"><img alt="Hits" src="https://hits.sh/github.com/J-hoplin1.svg"/></a>
 </div>
 
-## My moto
-더 나은 내일을 위해 오늘의 중괄호를 엽니다
+## Greetings!
+**TypeScript Nest.js** & **Golang** based developer located in Seoul, S. Korea. Having interests in Cloud Native Computing & Concurrency Programming. 
+
 ## Recently Using
 [![My Skills](https://skills.thijs.gg/icons?i=nodejs,ts,go,aws,docker,react,tailwind,nestjs,prisma,jest,mongodb,mysql,bash)](https://skills.thijs.gg)
 
@@ -13,8 +14,3 @@
 
 ## Interests (Incubating Skills)
 [![My Skills](https://skills.thijs.gg/icons?i=gcp,kafka)](https://skills.thijs.gg)
-
-## Reach with me
-- [Blog](https://velog.io/@hoplin)
-- [Linked In](https://www.linkedin.com/in/%EC%A4%80%ED%98%B8-%EC%9C%A4-09713b171/)
-- Email : jhoplin7259@gmail.com
